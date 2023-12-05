@@ -6,7 +6,7 @@ import FavoriteBooks from '../Pages/Shop/Home/FavoriteBooks'
 const Home = () => {
   return (
    <><Banner />
-   <FavoriteBooks />
+   {<FavoriteBooks />}
    </>
 
   )
