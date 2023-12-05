@@ -13,9 +13,17 @@ function FavoriteBooks() {
   )
   return (
     <div>
+<<<<<<< HEAD
       <BookCard books={books} headLine="best saller books"/>
+=======
+      {<BookCard books={books} headLine="best saller books"/>}
+>>>>>>> addFav
     </div>
   )
 }
 
+<<<<<<< HEAD
 export default FavoriteBooks
+=======
+export default FavoriteBooks
+>>>>>>> addFav

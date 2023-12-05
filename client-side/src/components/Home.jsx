@@ -8,7 +8,10 @@ const Home = () => {
    <><Banner />
    {<FavoriteBooks />}
    </>
+<<<<<<< HEAD
 
+=======
+>>>>>>> addFav
   )
 }
 
